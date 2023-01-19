@@ -2,6 +2,7 @@
   "name": "react-21-22",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vlad-danilchenko.github.io/React-M3-CW1-Pokemon/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
