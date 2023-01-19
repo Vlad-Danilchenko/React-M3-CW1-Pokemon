@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-M3-CW1-Pokemon/static/css/main.912d7005.css",
+    "main.js": "/React-M3-CW1-Pokemon/static/js/main.40289482.js",
+    "static/media/error.jpg": "/React-M3-CW1-Pokemon/static/media/error.7d86105a62bf3b28ec78.jpg",
+    "index.html": "/React-M3-CW1-Pokemon/index.html",
+    "main.912d7005.css.map": "/React-M3-CW1-Pokemon/static/css/main.912d7005.css.map",
+    "main.40289482.js.map": "/React-M3-CW1-Pokemon/static/js/main.40289482.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.912d7005.css",
+    "static/js/main.40289482.js"
+  ]
+}
